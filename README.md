@@ -1,2 +1,2 @@
-# docs-spring-cloud-feign
-Spring Cloud OpenFeign
+# Spring Cloud OpenFeign
+https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/
